@@ -1,0 +1,1 @@
+fake_items_db = [{"item_name":"foo"},{"item_name":"Bar"},{"item_name":"Baz"}]
